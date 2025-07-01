@@ -1,0 +1,4838 @@
+{
+  "game": "valorant",
+  "success": true,
+  "session_start": "2025-06-03T10:38:36.163685",
+  "session_end": "2025-06-03T10:38:52.271860",
+  "records": [
+    {
+      "timestamp": "2025-06-03T10:38:37.245783",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:37.337754",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:37.469925",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:37.566506",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:37.660919",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:37.775401",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:37.881846",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:37.992874",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:38.101487",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:38.211880",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:38.321437",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:38.434620",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:38.543377",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:38.650607",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:38.762538",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:38.876374",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:38.993193",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:39.095129",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:39.193867",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:39.306374",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:39.414356",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:39.529745",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:39.630243",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:39.746623",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:39.848835",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:39.956437",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:40.079858",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:40.184824",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:40.279848",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:40.422458",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:40.538268",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:40.639201",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:40.738287",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:40.839003",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:40.951556",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:41.059709",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:41.165379",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:41.276817",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:41.388259",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:41.501568",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:41.606371",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:41.719279",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:41.827072",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:41.936543",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:42.045135",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:42.155535",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:42.267700",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:42.374204",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:42.487780",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:42.595473",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:42.703946",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:42.817742",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:42.927250",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:43.038680",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:43.142968",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:43.250998",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:43.361523",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:43.469478",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:43.580833",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:43.694013",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:43.798109",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:43.920509",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:44.028203",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:44.156566",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:44.262219",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:44.369518",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:44.485498",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:44.594329",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:44.700165",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:44.806505",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:44.919408",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:45.028997",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:45.133524",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:45.246467",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:45.356399",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:45.470462",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:45.575188",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:45.681686",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:45.798575",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:45.904647",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:46.014276",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:46.117647",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:46.224690",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:46.336598",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:46.442956",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:46.549877",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:46.661333",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:46.769826",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:46.884228",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:46.990932",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:47.094429",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:47.214281",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:47.319979",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:47.427835",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:47.532432",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:47.649888",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:47.751951",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:47.863800",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:47.969485",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:48.084514",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:48.189716",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:48.300068",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:48.401628",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:48.516398",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:48.619683",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:48.729951",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:48.850343",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:48.953429",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:49.059367",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:49.164759",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:49.284186",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:49.384871",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:49.494760",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:49.610326",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:49.720763",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:49.824586",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:49.933476",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:50.060364",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:50.166313",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:50.272592",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:50.380636",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:50.487701",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:50.602463",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:50.694695",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:50.813776",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:50.926565",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:51.041102",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:51.146344",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:51.254498",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:51.356334",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:51.469960",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:51.584908",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:51.689360",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:51.800085",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:51.905784",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:52.021852",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:52.132310",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    },
+    {
+      "timestamp": "2025-06-03T10:38:52.218988",
+      "state": {
+        "combat": false,
+        "utility_available": false,
+        "round_time": "mid",
+        "team_money": "medium",
+        "exposed": false,
+        "player_health": 100,
+        "player_armor": 0,
+        "player_position": [
+          0.0,
+          0.0
+        ],
+        "enemy_positions": [],
+        "spike_location": [
+          0.0,
+          0.0
+        ],
+        "site_control": false,
+        "enemy_presence": false,
+        "teammate_with_smoke": false,
+        "teammate_with_flash": false,
+        "teammate_with_healing": false,
+        "need_coordination": false,
+        "abilities": {
+          "Q": true,
+          "E": true,
+          "C": false,
+          "X": false
+        },
+        "equipped_gun": "Classic"
+      },
+      "action": null
+    }
+  ]
+}
